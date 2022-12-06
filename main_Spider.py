@@ -111,11 +111,11 @@ if __name__ == '__main__':
     word = input('输入关键字:')
     with open('Success.txt') as file:
         files = file.readlines()
-        page = 1
+        page = int(input('页数从多少开始:'))-1
         while True:
             nRet = False
             count = 16
-            print('当前爬虫行走到了第 ',page,'页')
+            print('当前爬虫行走到了第 ',page+1,'页')
             while count > 0 and not nRet:
                 print('剩余重试连接机会:', count)
                 nRet = PixivRun(files, word,page)
