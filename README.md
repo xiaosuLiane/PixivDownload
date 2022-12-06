@@ -1,10 +1,11 @@
-# PixivDownload
+# PixivDownload  
+![cb8065380cd791232e8a0b10aa345982b2b78068](https://user-images.githubusercontent.com/42183711/205938027-86f86cd5-84fc-4720-84c2-889eacdad4c5.png)  
 使用代理IP配合爬虫进行数据的爬取，每个都有重复机会  
 如果你问我为什么设置这么多重试机会? 我只能说穷，目前使用的是网络上公开的免费代理不太稳定    
 使用方法：  
 （可采取的）  
 1.如果要测试哪个可以访问Pixiv，可以使用源码内的main.py  
-2.并且把代理复制写入进Proxy.txt文件，然后运行main.py进行代理连通测试（代理测试使用的是：https://www.sslproxies.org/的免费SSL代理）  
+2.并且把代理复制写入进Proxy.txt文件，然后运行main.py进行代理连通测试（代理测试使用的是：https://www.sslproxies.org/）免费SSL代理  
 3.代理复制格式请参考Successful.txt内容复制  
 #爬虫使用方法  
 1.确保Successful.txt里面存放了可以连接的外国Https代理（Pixiv被国家防火墙了）  
