@@ -1,6 +1,6 @@
 # PixivDownload  
 本脚本国内使用需要配合Clash代理 
-如果在国外,请把代码中的proxies删除并把requests.get后面的proxies也删除
+如果在国外,请把代码中的proxies删除并把requests.get后面的proxies也删除  
 使用教程：  
 #1、安装Clash  
 網址：https://ikuuu.me/user/tutorial  
