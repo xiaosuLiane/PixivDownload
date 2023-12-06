@@ -31,6 +31,7 @@
 ![)KTLRHJQU DYR%2WK{4@HSF](https://github.com/xiaosuLiane/PixivDownload/assets/42183711/3f8a325f-f9fa-46a1-8123-d39e78cdc1eb)
 3、随机点一个，找到有cookie的就复制cookie：后面的值
 ![R%F3O)7 )IYU$OG(GONI@ 4](https://github.com/xiaosuLiane/PixivDownload/assets/42183711/ab9f6a22-1234-4774-a1ae-f603ce59adfe)
-![4KXT _IMS_3EMLZO _Z551](https://github.com/xiaosuLiane/PixivDownload/assets/42183711/27b80bd0-fee9-4a4c-aa3b-3f3b4be04d8f)
+![4KXT _IMS_3EMLZO _Z551](https://github.com/xiaosuLiane/PixivDownload/assets/42183711/1204c423-a9c2-4c4c-bd1b-c91f5d9e7e89)
+
 
 4、复制进脚本让你输入Cookie的地方回车即可。
